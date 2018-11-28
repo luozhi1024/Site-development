@@ -3,16 +3,19 @@
     <commonheader :selectMenu="selectMenu"></commonheader>
     <router-view class="content" @switchtab ="switchtab"/>
     <commonfooter :footerBgColor="selectMenu.bgColor"  :menuList="menuList"></commonfooter>
+    <MyPleasures></MyPleasures>
   </div>
 </template>
 <script>
 
   import  commonheader from "@/components/commonheader.vue";
-  import  commonfooter from "@/components/commonfooter.vue"
+  import  commonfooter from "@/components/commonfooter.vue";
+  import  MyPleasures from "@/components/MyPleasures.vue"
   export default {
     components :{
       commonheader,
       commonfooter,
+      MyPleasures
     },
     methods: {
       // changeTitle(menu){
@@ -30,27 +33,32 @@
     data(){
       return{
         menuList: [
-          {
-            title: '电影',
+           {
+            title: '滑板',
             bgColor: '#e54847',
-            name: 'movie',
-            path: '/movie'
+            name: 'The skateboard',
+            path: '/The skateboard',
           },{
-            title: '音乐',
+            title: '健身',
             bgColor: '#C20C0C',
-            name: 'music',
-            path: '/music'
+            name: 'Fitness',
+            path: '/Fitness'
           },{
-            title: '书籍',
+            title: '电影音乐',
             bgColor: '#795548',
-            name: 'book',
-            path: '/book'
+            name: 'Film music',
+            path: '/Film music'
           },{
-            title: '图片',
+            title: '游戏',
             bgColor: '#3f51b5',
-            name: 'photo',
-            path: '/photo'
-          }
+            name: 'The games',
+            path: '/The games'
+          },{
+        title: '朋友们',
+          bgColor: '#3f51b5',
+          name: 'Friends',
+          path: '/Friends'
+      }
         ],
         selectMenu: {}
       }
@@ -61,7 +69,8 @@
 
 <style lang="scss">
   .content{
-    margin: 1rem 0;
+    margin: 302px 0;
   }
+
 
 </style>
