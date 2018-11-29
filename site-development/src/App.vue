@@ -3,19 +3,16 @@
     <commonheader :selectMenu="selectMenu"></commonheader>
     <router-view class="content" @switchtab ="switchtab"/>
     <commonfooter :footerBgColor="selectMenu.bgColor"  :menuList="menuList"></commonfooter>
-    <MyPleasures></MyPleasures>
   </div>
 </template>
 <script>
 
   import  commonheader from "@/components/commonheader.vue";
   import  commonfooter from "@/components/commonfooter.vue";
-  import  MyPleasures from "@/components/MyPleasures.vue"
   export default {
     components :{
       commonheader,
       commonfooter,
-      MyPleasures
     },
     methods: {
       // changeTitle(menu){
@@ -33,11 +30,16 @@
     data(){
       return{
         menuList: [
-           {
+          {
+            title: '乐趣',
+            bgColor: '#e54847',
+            name: 'My pleasures',
+            path: '/MyPleasures',
+          }, {
             title: '滑板',
             bgColor: '#e54847',
             name: 'The skateboard',
-            path: '/The skateboard',
+            path: '/TheSkateboard',
           },{
             title: '健身',
             bgColor: '#C20C0C',
@@ -47,12 +49,12 @@
             title: '电影音乐',
             bgColor: '#795548',
             name: 'Film music',
-            path: '/Film music'
+            path: '/FilmMusic'
           },{
             title: '游戏',
             bgColor: '#3f51b5',
             name: 'The games',
-            path: '/The games'
+            path: '/TheGames'
           },{
         title: '朋友们',
           bgColor: '#3f51b5',
