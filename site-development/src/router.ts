@@ -1,11 +1,11 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import movie from '@/views/movie/movie.vue';
-import music from '@/views/music/music.vue';
-import book from '@/views/book/book.vue';
-import photo from '@/views/photo/photo.vue';
-import moviedata from '@/views/movie/moviedata.vue'
-import PhotoDetail from '@/views/photo/PhotoDetail.vue'
+import MyPleasures from '@/views/MyPleasures/MyPleasures.vue';
+import TheSkateboard from '@/views/TheSkateboard/TheSkateboard.vue';
+import Fitness from '@/views/Fitness/Fitness.vue';
+import FilmMusic from '@/views/FilmMusic/FilmMusic.vue'
+import TheGames from '@/views/TheGames/TheGames.vue';
+import Friends from '@/views/Friends/Friends.vue'
 
 Vue.use(Router);
 
@@ -14,32 +14,32 @@ export default new Router({
   base: process.env.BASE_URL,
   routes: [{
     path: '/',
-    redirect: '/movie'
+    redirect: '/MyPleasures'
   },
     {
-      path: '/movie',
-      name: 'movie',
-      component: movie
+      path: '/MyPleasures',
+      name: 'My pleasures',
+      component: MyPleasures
     }, {
-      path: '/music',
-      name: 'music',
-      component: music
+      path: '/TheSkateboard',
+      name: 'The skateboard',
+      component: TheSkateboard
     }, {
-      path: '/book',
-      name: 'book',
-      component: book
+      path: '/Fitness',
+      name: 'Fitness',
+      component: Fitness
     }, {
-      path: '/photo',
-      name: 'photo',
-      component: photo
+      path: '/FilmMusic',
+      name: 'Film Music',
+      component: FilmMusic
     },{
-      path: '/moviedata/:movieId',
-      name: 'moviedata',
-      component: moviedata
+      path: '/TheGames',
+      name: 'The games',
+      component: TheGames
     }, {
-      path: '/photodetail/:index',
-      name: 'photodetail',
-      component: PhotoDetail
+      path: '/Friends',
+      name: 'Friends',
+      component: Friends
     }
   ],
 });
