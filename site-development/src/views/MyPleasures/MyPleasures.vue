@@ -1,6 +1,6 @@
 <template>
   <div content="bg">
-    <img class="img-bg" src="../assets/img/security-bg.jpg">
+    <img class="img-bg" src="../../assets/img/security-bg.jpg">
     <div class="text" align="center">
       <div>我觉得吧</div>
       <div>当然只是我觉得</div>
@@ -35,7 +35,7 @@
   }
 
   .img-bg{
-    background-image:url(../assets/img/security-bg.jpg);
+    background-image:url(../../assets/img/security-bg.jpg);
     background-size: 100% auto;
     position: fixed;
     z-index: -1;
