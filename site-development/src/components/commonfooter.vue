@@ -1,33 +1,45 @@
 <template>
-<div></div>
+  <ul class="footer" :style="{background: footerBgColor}">
+    <li class="footer-menu" v-for="(menu, index) in menuList" :key="index" v-bind:class="[index==0?'button tab-link  active':'menu-first']">
+      <router-link  :to="menu.path">{{menu.title}}</router-link>
+    </li>
+  </ul>
 </template>
-<srcipt>
-  import "../../node_modules/bootstrap/dist/css/bootstrap.css";
-</srcipt>
+<script>
+  export default {
+
+    props: ['menuList','footerBgColor'],
+    methods: {
+      // selectMenu(menu) {
+      //     this.bgColor = menu.bgColor;
+      //     this.$emit('changeTitle', menu);
+      // }
+    }
+  };
+</script>
 <style lang="scss" scoped>
   .footer {
     display: flex;
     position: fixed;
     top: 20%;
     width: 100%;
-    height:100px;
+    height: 100px;
     line-height: 100px;
     background-color: #222222;
     font-size: 25px;
+    &-menu {
+      flex-grow: 1;
+      text-align: center;
+      a {
+        color: #ccc;
+        outline: none;
+        &.router-link-active {
+          color: #fff;
+        }
+      }
+    }
   }
-  .footer-ul{
-    right: 0%;
-    display: flex;
-    position: fixed;
+  .menu-first{
+    margin: 0 50px;
   }
-  .title-menu{
-    color: #fff;
-    font-size: 30px;
-    margin-left: 50px;
-  }
-  .title-li{
-    margin-right: 60px;
-    color: #fff;
-  }
-
 </style>

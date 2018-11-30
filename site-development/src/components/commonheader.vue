@@ -2,23 +2,21 @@
   <div class="home">
     <header class="header">
     </header>
-  <div class="footer">
-    <div><span class="title-menu">My pleasures</span></div>
-    <ul class="footer-ul">
-      <li class="title-li" v-for="(menu, index) in menuList" :key="index">
-        <router-link  :to="menu.path">{{menu.title}}</router-link>
-      </li>
-    </ul>
-
-  </div>
   </div>
 </template>
 
 <script>
     export default {
-        props: ['selectMenu']
+        props: ['selectMenu','menuList','footerBgColor'],
+      methods: {
+        // selectMenu(menu) {
+        //     this.bgColor = menu.bgColor;
+        //     this.$emit('changeTitle', menu);
+        // }
+      }
     };
 </script>
+
 
 <style lang="scss" scoped>
   .home{
@@ -67,5 +65,6 @@
       margin-right: 60px;
       color: #fff;
     }
+
 
 </style>
