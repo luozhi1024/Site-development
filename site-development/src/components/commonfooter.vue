@@ -21,7 +21,7 @@
   .footer {
     display: flex;
     position: fixed;
-    top: 20%;
+    top: 10%;
     width: 100%;
     height: 100px;
     line-height: 100px;
