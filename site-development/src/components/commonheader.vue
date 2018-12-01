@@ -23,7 +23,7 @@
     z-index: 999;
   }
     .header {
-        height: 20%;
+        height: 10%;
         background-color: #e54847;
         line-height: 16px;
         position: fixed;
