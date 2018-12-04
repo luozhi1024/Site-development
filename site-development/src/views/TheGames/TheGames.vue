@@ -2,26 +2,22 @@
   <div content="bg">
     <img class="img-bg" src="../../assets/img/TheGames-bg.jpg">
     <div class="text" align="center">
-      <div>我觉得吧</div>
-      <div>当然只是我觉得</div>
-      <div>每个人都是独立的个体吧</div>
-      <div>就是说每个人的生活总是会有不一样</div>
-      <div>我希望能分享你的乐趣</div>
-      <div>也希望我的乐趣呢</div>
-      <div>会带给你不一样的惊喜</div>
+      <p>玩游戏的人都是死肥宅
+        这句话已经变成这样子我也没想到，哈哈哈
+        游戏，这个东西我真是又爱又恨。很俗的爱恨，就不拿出来丢人了。
+        从电子屏的滴滴滴的坦克大战，俄罗斯方块到插卡的魂斗罗，热血系列。再到后来的手机Java游戏，最后现在的手机游戏，pc端，单机。我一个都没落下，成就感爆炸的OK？
+        这么多年的熏陶沉浸，所以说啊游戏天赋还不赖，不然早就脱坑了。
+      </p>
     </div>
     <div class="text-1" align="center">
-      <div>无忧无虑是三年</div>
-      <div>懵懵懂懂又三年</div>
-      <div>胡思乱想仍三年</div>
-      <div>命里无时终三年</div>
-    </div>
-    <div class="text-2" align="center">
-      <div>我呢</div>
-      <div>做不到一蓑烟雨任平生</div>
-      <div>心中又羡慕的紧</div>
-      <div>所以啊</div>
-      <div>人生如逆旅 我亦是行客</div>
+    <p>那么呢，英雄联盟啊，刀塔2啊，ow啊，单机啊。都来找我，一起联机。
+      游戏说到底是让人快乐的东西
+      孔子说：独乐乐不如众乐乐。
+      一起玩才是快乐
+      快乐就完事了
+      看到下面的footer没
+      call me
+    </p>
     </div>
   </div>
 
