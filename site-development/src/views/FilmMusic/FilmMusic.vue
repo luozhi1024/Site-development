@@ -2,26 +2,24 @@
   <div content="bg">
     <img class="img-bg" src="../../assets/img/FlimMusic-bg.jpg">
     <div class="text" align="center">
-      <div>我觉得吧</div>
-      <div>当然只是我觉得</div>
-      <div>每个人都是独立的个体吧</div>
-      <div>就是说每个人的生活总是会有不一样</div>
-      <div>我希望能分享你的乐趣</div>
-      <div>也希望我的乐趣呢</div>
-      <div>会带给你不一样的惊喜</div>
+      <p>
+        电影呢
+        可以说是非常喜欢了
+        喜欢到什么程度呢
+        近两年评分比较高的电影都看过了
+        要说最喜欢哪部吧
+        我最爱的电影还蛮多的诶</p>
     </div>
     <div class="text-1" align="center">
-      <div>无忧无虑是三年</div>
-      <div>懵懵懂懂又三年</div>
-      <div>胡思乱想仍三年</div>
-      <div>命里无时终三年</div>
+<p></p>
     </div>
     <div class="text-2" align="center">
-      <div>我呢</div>
-      <div>做不到一蓑烟雨任平生</div>
-      <div>心中又羡慕的紧</div>
-      <div>所以啊</div>
-      <div>人生如逆旅 我亦是行客</div>
+<p>音乐呢
+对我口味的我都很ok
+所以啊我听歌很杂
+要说推荐啊什么的我是没办法啊
+但是分享一下我的私人小收藏还是可以的
+既然都到这里了听听歌吧</p>
     </div>
   </div>
 </template>
