@@ -71,7 +71,7 @@
 
 <style lang="scss">
   .content{
-    margin: 302px 0;
+    margin: 200px 0;
   }
 
 
