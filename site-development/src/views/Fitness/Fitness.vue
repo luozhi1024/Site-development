@@ -1,50 +1,34 @@
 <template>
   <div content="bg">
-    <img class="img-bg" src="../../assets/img/Fitness-bg.jpg">
+    <img class="img-bg" src="../../assets/img/Friends-bg.jpg">
     <div class="text" align="center">
-      <div>我觉得吧</div>
-      <div>当然只是我觉得</div>
-      <div>每个人都是独立的个体吧</div>
-      <div>就是说每个人的生活总是会有不一样</div>
-      <div>我希望能分享你的乐趣</div>
-      <div>也希望我的乐趣呢</div>
-      <div>会带给你不一样的惊喜</div>
+      <p>说起健身我就有些头疼
+        我一直都想，我就这样认为的，我本来就是一个瘦瘦的男生
+        不管是小时候的漫画
+        还是大了之后的各种番剧
+        男生就该是那种
+        上了高中，对就是高中，作息紊乱，久坐伏案，一日四食
+        我最后还是成为了自带三层游泳圈的胖子啊
+      </p>
     </div>
     <div class="text-1" align="center">
-      <div>无忧无虑是三年</div>
-      <div>懵懵懂懂又三年</div>
-      <div>胡思乱想仍三年</div>
-      <div>命里无时终三年</div>
+      <p>80kg的我如何变成朋友眼中的60kg呢
+        然后呢，你肯定就会想到健身啊</p>
     </div>
     <div class="text-2" align="center">
-      <div>我呢</div>
-      <div>做不到一蓑烟雨任平生</div>
-      <div>心中又羡慕的紧</div>
-      <div>所以啊</div>
-      <div>人生如逆旅 我亦是行客</div>
+      <p>但是呢，大一的时候也没想到健身，就节食吧。后来发现瘦是瘦了，不过身体也好差呀
+        正式开始健身是大二吧，大二其实也很迷茫。有些想法，但是方向也不是很清晰。
+        正好又遇见了一些人，理解了一些事。我呢，终归是我自己。
+        于是开始健身，刚开始啊，就只是瞎玩啊。瞎玩的结果就是什么也没练成，还残害身体。那么就沉下心了，认认真真想要一个结果。呃，我突然发现这和我开始敲代码一样，不过这是后话，后话了。
+      </p>
+    </div>
+    <div class="text-3" align="center">
+      <p>有了一起健身的小伙伴，有了每天去健身就有免费的台球可以玩。健身计划就很容易完成了。
+
+        一个懒惰的猪头，不对，猪头已经被我打死了，一个热爱运动的冰冷的健身机器，啊，也要热爱学习啊。最后说一句我70kg</p>
     </div>
   </div>
-
 </template>
-
-
-<script>
-    import "vue-swipe/dist/vue-swipe.css";
-    import  {Swipe,SwipeItem} from "vue-swipe";
-    import MtSwipeItem from "vue-swipe/src/swipe-item";
-    export default {
-created(){
-            this.$emit("switchtab","book")
-        },
-        components:{
-            swipe : Swipe,
-            "swipe-item" : SwipeItem  ,
-
-
-        }
-    }
-    // 使用vue的自带组件案列
-</script>
 
 <style lang="scss" scoped>
   .bg{
@@ -54,6 +38,7 @@ created(){
   }
 
   .img-bg{
+
     background-size: 100% auto;
     position: fixed;
     z-index: -1;
@@ -93,4 +78,3 @@ created(){
 
 
 </style>
-
