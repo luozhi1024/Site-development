@@ -2,26 +2,32 @@
   <div content="bg">
     <img class="img-bg" src="../../assets/img/skateborad-bg.jpg">
     <div class="text" align="center">
-      <div>我觉得吧</div>
-      <div>当然只是我觉得</div>
-      <div>每个人都是独立的个体吧</div>
-      <div>就是说每个人的生活总是会有不一样</div>
-      <div>我希望能分享你的乐趣</div>
-      <div>也希望我的乐趣呢</div>
-      <div>会带给你不一样的惊喜</div>
+      <img style="width: 30%;float: left" src="../../assets/img/sb-1.gif">
+      <img style="width: 30%;float: right" src="../../assets/img/sb-2.gif">
+      <div>我呢生性活泼</div>
+      <div>小时候该玩的都玩过了</div>
+      <div>那不该玩的乱七八糟的我也稀里糊涂的玩过了</div>
+      <div>当然啊</div>
+      <div>只是皮小孩不是坏小孩</div>
     </div>
-    <div class="text-1" align="center">
-      <div>无忧无虑是三年</div>
-      <div>懵懵懂懂又三年</div>
-      <div>胡思乱想仍三年</div>
-      <div>命里无时终三年</div>
+    <img style="width: 30%;float: left;margin: 5%" src="../../assets/img/timg.jpg">
+    <img style="width: 30%;float: left;margin-top: 5%" src="../../assets/img/timg-1.jpg">
+    <p class="text-1" align="center">那个时候啊，从滑板，单车，到轮滑，然后摩托，最后成为一个非常专业的非专业板仔。 滑板呢，我也不知道他有什么力量吧，就或许是腾空的感觉</p>
+    <img style="width: 30%;float:left" src="../../assets/img/sb-3.gif">
+    <img style="width: 30%;float:right" src="../../assets/img/sb-4.gif">
+    <div class="text" align="center">
+      <div>小时候想着单车后座有个她</div>
+      <div>大一些就和她一起玩轮滑</div>
+      <div>然后上学放学路上载她回家</div>
+      <div>最后发现自己不够了解她</div>
+      <div>回头滑板上的图案应该重刷</div>
     </div>
     <div class="text-2" align="center">
-      <div>我呢</div>
-      <div>做不到一蓑烟雨任平生</div>
-      <div>心中又羡慕的紧</div>
-      <div>所以啊</div>
-      <div>人生如逆旅 我亦是行客</div>
+      <div>那么就很简单的我又捡起了滑板</div>
+      <div>很久很久的时间它让我变得笨拙又骄傲</div>
+      <div>热爱又轻松的心情它让板子灵活又迅速</div>
+      <div>我总能抓住那稍纵即逝的时机</div>
+      <div>平稳着陆</div>
     </div>
   </div>
 </template>
@@ -48,33 +54,35 @@
   .text{
     background-color:rgba(128,128,128,0.7);;
     color: #87CEFA;
+    width: 80%;
+    height: 40%;
     padding: 50px 40px 50px 40px;
-    width: 800px;
     border-radius:40px;
     font-size: 30px;
     font-weight:400;
+    margin-left: 10%;
   }
   .text-1{
-    background-color:rgba(128,128,128 ,0.7);
+    background-color:rgba(128,128,128,0.7);;
     color: #87CEFA;
-    right: 0;
-    float: right;
-    bottom: 0;
+    width: 20%;
     padding: 50px 40px 50px 40px;
-    width: 500px;
     border-radius:40px;
     font-size: 30px;
     font-weight:400;
+    margin-top: 5%;
+    margin-left: 75%;
   }
   .text-2{
     background-color:rgba(128,128,128 ,0.7);
     color: #87CEFA;
     bottom: 0;
     padding: 50px 40px 50px 40px;
-    width: 500px;
+    width: 25%;
     border-radius:40px;
     font-size: 30px;
     font-weight:400;
+    margin: 5% auto;
   }
 
 
