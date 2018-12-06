@@ -2,17 +2,18 @@
   <div content="bg">
     <img class="img-bg" src="../../assets/img/security-bg.jpg">
     <div class="text" >
-      <img style="width: 30%;float: right" src="../../assets/img/laugh.jpg">
-      <p style="width: 30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我觉得吧，
+      <img style="width: 50%;float: right" src="../../assets/img/laugh.jpg">
+      <div style="width: 40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我觉得吧，
         当然只是我觉得，
         每个人都是独立的个体吧，
         就是说每个人的生活总是会有不一样，
         我希望能分享你的乐趣，
         也希望我的乐趣呢，
-        会带给你不一样的惊喜。</p>
+        会带给你不一样的惊喜。</div>
 
     </div>
-    <div class="text-1" align="center">
+    <div class="text-1"  align="center">
+      <img style="width: 50%;float: left" src="../../assets/img/pass.jpg">
       <p>无忧无虑是三年<br>
         懵懵懂懂又三年<br>
         胡思乱想仍三年<br>
@@ -48,7 +49,7 @@
   .text{
     background-color:rgba(128,128,128,0.7);;
     color: #87CEFA;
-    width: 60%;
+    width: 50%;
     height: 40%;
     padding: 50px 40px 50px 40px;
     border-radius:40px;
@@ -59,13 +60,13 @@
   .text-1{
     background-color:rgba(128,128,128,0.7);;
     color: #87CEFA;
-    width: 15%;
+    width: 40%;
     padding: 50px 40px 50px 40px;
     border-radius:40px;
     font-size: 30px;
     font-weight:400;
     margin-top: 5%;
-    margin-left: 75%;
+    margin-left: 50%;
   }
   .text-2{
     background-color:rgba(128,128,128 ,0.7);

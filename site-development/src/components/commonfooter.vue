@@ -5,7 +5,9 @@
     </li>
   </ul>
 </template>
+
 <script>
+
   export default {
 
     props: ['menuList','footerBgColor'],
@@ -27,6 +29,7 @@
     line-height: 100px;
     background-color: #222222;
     font-size: 25px;
+    z-index: 999;
     &-menu {
       flex-grow: 1;
       text-align: center;
@@ -43,3 +46,5 @@
     margin: 0 50px;
   }
 </style>
+
+

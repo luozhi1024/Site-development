@@ -32,34 +32,28 @@
         menuList: [
           {
             title: '乐趣',
-            bgColor: '#e54847',
             name: 'My pleasures',
             path: '/MyPleasures',
           }, {
             title: '滑板',
-            bgColor: '#e54847',
             name: 'The skateboard',
             path: '/TheSkateboard',
           },{
             title: '健身',
-            bgColor: '#C20C0C',
             name: 'Fitness',
             path: '/Fitness'
           },{
             title: '电影音乐',
-            bgColor: '#795548',
             name: 'Film music',
             path: '/FilmMusic'
           },{
             title: '游戏',
-            bgColor: '#3f51b5',
             name: 'The games',
             path: '/TheGames'
           },{
-        title: '朋友们',
-          bgColor: '#3f51b5',
-          name: 'Friends',
-          path: '/Friends'
+            title: '朋友们',
+            name: 'Friends',
+            path: '/Friends'
       }
         ],
         selectMenu: {}
