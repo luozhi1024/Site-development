@@ -10,27 +10,27 @@
 - 现完成初步结构
 1. 主页
 
-![image](https://note.youdao.com/yws/api/personal/file/1A0A0CEB390B47869FB82D643D5FAFEB?method=download&shareKey=e3200e43d9bfbbfe7b9c5d06121236ea)
+![image](https://note.youdao.com/yws/api/personal/file/7EB56AF5CE684EB48384183BF1447950?method=download&shareKey=e5f874e450732acb743182accb04609e)
 
 2.滑板
 
-![image](https://note.youdao.com/yws/api/personal/file/06DB47CC351F49BCB5476801A28A4ACA?method=download&shareKey=cbbf82765d64be29f2704cbe77b54a5e)
+![image](https://note.youdao.com/yws/api/personal/file/F02F409E093E467C8F8664215E4B21BC?method=download&shareKey=09c49d7cc0148c7919236b4df8344e3f)
 
 3.健身
 
-![image](https://note.youdao.com/yws/api/personal/file/23288018CC4D4221839C6BD76ED10B0F?method=download&shareKey=c282fb731bb4c2ce316879beafa783f8)
+![image](https://note.youdao.com/yws/api/personal/file/5F0A77206B5B41C4814FFFAEB9D5809A?method=download&shareKey=3bf6ab0e02d9f72caae15716d4ed050f)
 
 4.电影音乐
 
-![image](https://note.youdao.com/yws/api/personal/file/BB30576C94074B899F6628CA117E4B97?method=download&shareKey=9397c3ae48b8ef37b84efbb62c2aafe5)
+![image](https://note.youdao.com/yws/api/personal/file/4EEEA38F77CD414F955039DCBDD83292?method=download&shareKey=75deb7f3b65585f9477994efffdf8f7e)
 
 5.游戏
 
-![image](https://note.youdao.com/yws/api/personal/file/1741F5D0FBBB467FA35BF8DDC1D6C5EA?method=download&shareKey=65db3ef1a3d06e847b797304f3efda19)
+![image](https://note.youdao.com/yws/api/personal/file/97339165CFAD4162B20A207FDB702C25?method=download&shareKey=d4519142a9fc49d2fd0eb6f78a03ea26)
 
 6.朋友
 
-![image](https://note.youdao.com/yws/api/personal/file/2FD4E85D5BEA47258FAC8160152EF28F?method=download&shareKey=224e3a359af9c0370fba3cf5ca3016b7)
+![image](https://note.youdao.com/yws/api/personal/file/64B3E9A1A1244CEEB8F7B83FAF928EEA?method=download&shareKey=c5d9df0ece283df16da645ab6352d7d6)
 
 - 内容
 
