@@ -10,27 +10,27 @@
 - 现完成初步结构
 1. 主页
 
-![image](https://note.youdao.com/yws/api/personal/file/CF5082304D5E4CF3A218BFCDD4CF33E1?method=download&shareKey=3e5c020372802b02ca0eb723e7874e96)
+![image](https://note.youdao.com/yws/api/personal/file/1A0A0CEB390B47869FB82D643D5FAFEB?method=download&shareKey=e3200e43d9bfbbfe7b9c5d06121236ea)
 
 2.滑板
 
-![image](https://note.youdao.com/yws/api/personal/file/0CEAC84BADEE4FAAB9A66BDEA9902878?method=download&shareKey=413978dfefcf2945bf1d71b432244e77)
+![image](https://note.youdao.com/yws/api/personal/file/06DB47CC351F49BCB5476801A28A4ACA?method=download&shareKey=cbbf82765d64be29f2704cbe77b54a5e)
 
 3.健身
 
-![image](https://note.youdao.com/yws/api/personal/file/DF6F04E76A774738B25A5FC7264CE643?method=download&shareKey=54313418a0165a7b98634158c625e22d)
+![image](https://note.youdao.com/yws/api/personal/file/23288018CC4D4221839C6BD76ED10B0F?method=download&shareKey=c282fb731bb4c2ce316879beafa783f8)
 
 4.电影音乐
 
-![image](https://note.youdao.com/yws/api/personal/file/5CE22436148A4FF68DB33372DC830F10?method=download&shareKey=8840e2a0b8d193bbc42ca109ae5ca888)
+![image](https://note.youdao.com/yws/api/personal/file/BB30576C94074B899F6628CA117E4B97?method=download&shareKey=9397c3ae48b8ef37b84efbb62c2aafe5)
 
 5.游戏
 
-![image](https://note.youdao.com/yws/api/personal/file/A4DEEA321D774B7593378DD22FD24121?method=download&shareKey=46c909beb573863425e9d01f7e27dc90)
+![image](https://note.youdao.com/yws/api/personal/file/1741F5D0FBBB467FA35BF8DDC1D6C5EA?method=download&shareKey=65db3ef1a3d06e847b797304f3efda19)
 
 6.朋友
 
-![image](https://camo.githubusercontent.com/53d36db7b2a54a889b21f084fb264a07ff9925fd/68747470733a2f2f6e6f74652e796f7564616f2e636f6d2f7977732f6170692f706572736f6e616c2f66696c652f38304442424538453237304234334144384141363246393346313235424334313f6d6574686f643d646f776e6c6f61642673686172654b65793d6662616331353164396637333363323936666533393931316632383036373734)
+![image](https://note.youdao.com/yws/api/personal/file/2FD4E85D5BEA47258FAC8160152EF28F?method=download&shareKey=224e3a359af9c0370fba3cf5ca3016b7)
 
 - 内容
 
